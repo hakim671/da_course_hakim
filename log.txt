@@ -1,0 +1,22 @@
+33967aa log
+86461e3 commit
+6fb64ed add
+46e90dd status
+9b79182 rm -rf
+fc1c5f3 init
+866b936 email
+e4e403c config
+154b204 version
+252a0fe Git
+e55bdbf rmdir
+0e1c9ec rm
+caaeb53 cat
+855aba5 mv
+0a46cd7 cp
+c4ad630 mkdir
+4e5e330 touch
+08e3cdf ls
+06ba005 cd
+bb81954 pwd
+6ceddb9 Изменён файл
+de6078c Добавлен файл
